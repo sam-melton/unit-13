@@ -1,0 +1,19 @@
+.sally{
+    /*
+    width:30vw;
+    height:30vh;
+    margin: auto;
+    */
+}
+
+.wrapper{position: relative;}
+
+.ts {
+  position: absolute; 
+  top:0; 
+  right:0;
+  z-index: 0;
+}
+
+
+
